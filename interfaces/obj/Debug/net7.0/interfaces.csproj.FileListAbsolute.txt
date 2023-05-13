@@ -1,0 +1,20 @@
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.AssemblyInfo.cs
+/Users/emanuelgarrido/Projects/interfaces/interfaces/obj/Debug/net7.0/interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\bin\Debug\net7.0\interfaces.exe
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\bin\Debug\net7.0\interfaces.deps.json
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\bin\Debug\net7.0\interfaces.runtimeconfig.json
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\bin\Debug\net7.0\interfaces.dll
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\bin\Debug\net7.0\interfaces.pdb
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.csproj.AssemblyReference.cache
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfo.cs
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.dll
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\refint\interfaces.dll
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.pdb
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\interfaces.genruntimeconfig.cache
+C:\Users\Anderson Cifuentes\Source\Repos\claseinterfases\interfaces\obj\Debug\net7.0\ref\interfaces.dll
